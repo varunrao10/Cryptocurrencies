@@ -112,3 +112,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Iris_Cleaning/iris.csv
+Iris_Cleaning/Iris_Clean_Notebook.ipynb
+Iris_Cleaning/Iris_Features_Notebook.ipynb
+Iris_Cleaning/Iris_Elbow_Curve_Notebook.ipynb
+Iris_Cleaning/Iris_Hierarchial_Clustering_Notebook.ipynb
+Iris_Cleaning/new_iris_data.csv
+Iris_Cleaning/Iris_KMean_Notebook.ipynb
+Shopping_Data/shopping_data_cleaned.csv
+Shopping_Data/shopping_data.csv
+Shopping_Data/Shopping_Kmeans_Notebook.ipynb
+Shopping_Data/Shopping_Data_Elbow_Curve_Notebook.ipynb
+Shopping_Data/Shopping_Notebook.ipynb
