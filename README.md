@@ -11,6 +11,6 @@ The purpose of this challenge is to first clean the data to be prepped for unsup
 ![3d scatterplot](screenshots/3d_scatter_plot.PNG)
 
 
--2D Scatter Plot: TotalCoinsMined vs TotalCoinsSupply (Scaled values)
+- 2D Scatter Plot: TotalCoinsMined vs TotalCoinsSupply (Scaled values)
 ![2d scatterplot](screenshots/2d_scatter_plot.PNG)
 
